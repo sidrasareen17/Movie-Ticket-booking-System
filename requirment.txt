@@ -1,0 +1,14 @@
+# Movie Ticket Booking System - Requirements
+
+PHP==8.1
+Apache==2.4
+MySQL==10.4   # (MariaDB via XAMPP)
+XAMPP==8.2.4
+
+HTML5
+CSS3
+JavaScript_ES6
+
+Browser==Chrome_120+   # or any modern browser
+VSCode==1.90+          # optional editor
+
